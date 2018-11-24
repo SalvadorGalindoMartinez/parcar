@@ -33,7 +33,7 @@ public class Car
         slowDown();
         moveDown();
         accelerate();
-        car.printGarage();
+        Garage.printGarage();
 //        turnRight();
 //        turnHeadlightsOn();
 //        turnHeadlightsOff();
